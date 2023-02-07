@@ -1,6 +1,6 @@
 # collinskirui.github.io
 
-# 🏄‍♂️ collins kirui
+# 🏄‍♂️ 
 
 **`Digital Craftsman (Developer/Network Engineer/Cyersecurity Enthusiast/ Cloud)`**
 
