@@ -4,15 +4,7 @@
 
 **`Digital Craftsman (Developer/Network Engineer/Cyersecurity Enthusiast/ Cloud)`**
 
-I'm a full-stack developer and professional network engineer building my career in the digital world one step at a time. All coding projects include extra classes from online programme cohorts and tutorials from various documentations from planning,designing and delivering real-life solutions with code. I am constantly learning to become ultimately a Devops Engineer.
-
-   <p align="left"> 
-      <a href="https://github.com/collinskirui?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/collinskirui?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-      <a href="https://github.com/collinskirui?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/collinskirui?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+I'm a Full Stack Developer and professional Network Engineer building my career in the digital world one step at a time. All coding projects include extra classes from online programme cohorts and tutorials from various documentations from planning,designing and delivering real-life solutions with code. I am constantly learning to become ultimately a Devops Engineer.
 
 ---
 
