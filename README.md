@@ -1,5 +1,3 @@
-# collinskirui.github.io
-
 # 🏄‍♂️ 
 
 **`Digital Craftsman (Developer/Network Engineer/Cyersecurity Enthusiast/ Cloud)`**
